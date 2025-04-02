@@ -5,6 +5,10 @@ env/
 ENV/
 .env
 
+# certs
+*.pem
+*.key
+
 # IDE
 .idea/
 .vscode/
